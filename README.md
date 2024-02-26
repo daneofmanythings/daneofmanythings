@@ -1,5 +1,7 @@
 🐹 Often found working in a Go project
-©️  Neovim enjoyer 
+
+©️  Neovim enjoyer
+
 💾 Terminal hermit
 
 <!--
